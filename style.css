@@ -23,6 +23,7 @@ body {
 }
 
 
+
 .container {
   display: flex;
   justify-content: center;
@@ -100,6 +101,40 @@ body {
 }
 
 
+
+.buttonCustomised {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 0.5rem;
+  border-color: #0196e3;
+
+
+}
+
+.buttonCustomised a {
+  padding: 1rem;
+  text-decoration: none;
+  font-family: "Bellota Text", cursive;
+  font-size: 1.7rem;
+  transition: color 0.4s;
+
+}
+
+.buttonCustomised a:visited {
+  color: #6c758f;
+}
+
+.buttonCustomised a:hover {
+  color: #0196e3;
+}
+
+.description {
+  margin: 1rem 3rem;
+}
+
+.description p {
+  margin-top: 2rem;
+}
 
 /*   colors
         #f2f3f7
