@@ -8,4 +8,4 @@
 - [X] Center Website title
 - [X] Add Group Member's pictures
 - [ ] Add Individual Assignments for each member
-- [ ] Add link to final group project
+- [X] Add link to final group project
